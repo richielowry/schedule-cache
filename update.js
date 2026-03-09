@@ -75,11 +75,11 @@ function parseCalendar(icsText) {
     }
 
     items.push({
-      type,
-      title: rawTitle.replace(/trip|event/i,"").trim(),
-      start,
-      end:endDate
-    });
+  type,
+  title: rawTitle.replace(/trip|event/i,"").trim(),
+  start: startDate,
+  end: endDate
+});
 
   });
 
