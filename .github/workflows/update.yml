@@ -1,0 +1,31 @@
+name: Update Schedule
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Run script
+      run: node update.js
+
+    - name: Commit JSON
+      run: |
+        git config --global user.name "schedule-bot"
+        git config --global user.email "bot@example.com"
+        git add schedule.json
+        git commit -m "update schedule" || exit 0
+        git push
