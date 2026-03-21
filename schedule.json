@@ -1,83 +1,11 @@
 {
-  "generated": "2026-03-20T07:01:10.236Z",
+  "generated": "2026-03-21T06:51:18.480Z",
   "calendarItems": [
-    {
-      "type": "event",
-      "title": "Morgan B'day",
-      "start": "2026-03-06T00:00:00.000Z",
-      "end": "2026-03-06T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "Vilamoura",
-      "start": "2026-04-09T00:00:00.000Z",
-      "end": "2026-04-13T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Open 3 Person Team",
-      "start": "2017-10-28T00:00:00.000Z",
-      "end": "2017-10-29T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Kenny birthday",
-      "start": "2026-11-09T00:00:00.000Z",
-      "end": "2026-11-09T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Marc's B'day",
-      "start": "2026-09-23T00:00:00.000Z",
-      "end": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "Krakow",
-      "start": "2026-03-21T00:00:00.000Z",
-      "end": "2026-03-23T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "kids stay over",
-      "start": "2026-03-14T00:00:00.000Z",
-      "end": "2026-03-14T00:00:00.000Z"
-    },
     {
       "type": "event",
       "title": "Club Team",
       "start": "2017-12-03T00:00:00.000Z",
       "end": "2017-12-03T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Da's Anniversary",
-      "start": "2026-12-12T00:00:00.000Z",
-      "end": "2026-12-12T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Captains & Club Officials Team  - Malahide GC Thursday 15th May 2014",
-      "start": "2014-05-15T00:00:00.000Z",
-      "end": "2014-05-15T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Da's B'day",
-      "start": "2026-07-10T00:00:00.000Z",
-      "end": "2026-07-10T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "Westport",
-      "start": "2026-09-10T00:00:00.000Z",
-      "end": "2026-09-12T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "-Golf Kilkenny",
-      "start": "2026-02-28T00:00:00.000Z",
-      "end": "2026-02-28T00:00:00.000Z"
     },
     {
       "type": "trip",
@@ -87,39 +15,15 @@
     },
     {
       "type": "event",
-      "title": "Rose B'day",
-      "start": "2026-05-06T00:00:00.000Z",
-      "end": "2026-05-06T00:00:00.000Z"
+      "title": "Kenny birthday",
+      "start": "2026-11-09T00:00:00.000Z",
+      "end": "2026-11-09T00:00:00.000Z"
     },
     {
       "type": "event",
-      "title": "New",
-      "start": "2021-05-12T00:00:00.000Z",
-      "end": "2021-05-12T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "John's B'day",
-      "start": "2026-07-13T00:00:00.000Z",
-      "end": "2026-07-13T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "rose party",
-      "start": "2026-03-15T00:00:00.000Z",
-      "end": "2026-03-15T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "nct",
-      "start": "2026-03-05T00:00:00.000Z",
-      "end": "2026-03-05T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Boxers b'day",
-      "start": "2026-03-14T00:00:00.000Z",
-      "end": "2026-03-14T00:00:00.000Z"
+      "title": "Da's Anniversary",
+      "start": "2026-12-12T00:00:00.000Z",
+      "end": "2026-12-12T00:00:00.000Z"
     },
     {
       "type": "trip",
@@ -134,6 +38,30 @@
       "end": "2026-10-18T00:00:00.000Z"
     },
     {
+      "type": "trip",
+      "title": "-Golf Kilkenny",
+      "start": "2026-02-28T00:00:00.000Z",
+      "end": "2026-02-28T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Rose B'day",
+      "start": "2026-05-06T00:00:00.000Z",
+      "end": "2026-05-06T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Karens B'day",
+      "start": "2026-09-13T00:00:00.000Z",
+      "end": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "Krakow",
+      "start": "2026-03-21T00:00:00.000Z",
+      "end": "2026-03-23T00:00:00.000Z"
+    },
+    {
       "type": "event",
       "title": "Marc football",
       "start": "2026-03-14T00:00:00.000Z",
@@ -141,9 +69,81 @@
     },
     {
       "type": "event",
-      "title": "Karens B'day",
-      "start": "2026-09-13T00:00:00.000Z",
-      "end": "2026-09-13T00:00:00.000Z"
+      "title": "New",
+      "start": "2021-05-12T00:00:00.000Z",
+      "end": "2021-05-12T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "Westport",
+      "start": "2026-09-10T00:00:00.000Z",
+      "end": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Morgan B'day",
+      "start": "2026-03-06T00:00:00.000Z",
+      "end": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "rose party",
+      "start": "2026-03-15T00:00:00.000Z",
+      "end": "2026-03-15T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Open 3 Person Team",
+      "start": "2017-10-28T00:00:00.000Z",
+      "end": "2017-10-29T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "Vilamoura",
+      "start": "2026-04-09T00:00:00.000Z",
+      "end": "2026-04-13T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "nct",
+      "start": "2026-03-05T00:00:00.000Z",
+      "end": "2026-03-05T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Captains & Club Officials Team  - Malahide GC Thursday 15th May 2014",
+      "start": "2014-05-15T00:00:00.000Z",
+      "end": "2014-05-15T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "John's B'day",
+      "start": "2026-07-13T00:00:00.000Z",
+      "end": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Marc's B'day",
+      "start": "2026-09-23T00:00:00.000Z",
+      "end": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Boxers b'day",
+      "start": "2026-03-14T00:00:00.000Z",
+      "end": "2026-03-14T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Da's B'day",
+      "start": "2026-07-10T00:00:00.000Z",
+      "end": "2026-07-10T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "kids stay over",
+      "start": "2026-03-14T00:00:00.000Z",
+      "end": "2026-03-14T00:00:00.000Z"
     },
     {
       "type": "event",
