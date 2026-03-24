@@ -1,29 +1,17 @@
 {
-  "generated": "2026-03-23T07:16:30.510Z",
+  "generated": "2026-03-24T07:09:19.724Z",
   "calendarItems": [
     {
-      "type": "trip",
-      "title": "Westport",
-      "start": "2026-09-10T00:00:00.000Z",
-      "end": "2026-09-12T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "-Golf Kilkenny",
-      "start": "2026-02-28T00:00:00.000Z",
-      "end": "2026-02-28T00:00:00.000Z"
+      "type": "event",
+      "title": "Marc football",
+      "start": "2026-03-14T00:00:00.000Z",
+      "end": "2026-03-14T00:00:00.000Z"
     },
     {
       "type": "event",
-      "title": "Karens B'day",
-      "start": "2026-09-13T00:00:00.000Z",
-      "end": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "Los Alcázares",
-      "start": "2026-03-25T00:00:00.000Z",
-      "end": "2026-04-04T00:00:00.000Z"
+      "title": "Boxers b'day",
+      "start": "2026-03-14T00:00:00.000Z",
+      "end": "2026-03-14T00:00:00.000Z"
     },
     {
       "type": "event",
@@ -33,9 +21,51 @@
     },
     {
       "type": "event",
-      "title": "Boxers b'day",
-      "start": "2026-03-14T00:00:00.000Z",
-      "end": "2026-03-14T00:00:00.000Z"
+      "title": "Karens B'day",
+      "start": "2026-09-13T00:00:00.000Z",
+      "end": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "Krakow",
+      "start": "2026-03-21T00:00:00.000Z",
+      "end": "2026-03-23T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Marc's B'day",
+      "start": "2026-09-23T00:00:00.000Z",
+      "end": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "ma consultant",
+      "start": "2026-03-24T00:00:00.000Z",
+      "end": "2026-03-24T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "care hire excess",
+      "start": "2026-03-24T00:00:00.000Z",
+      "end": "2026-03-24T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Club Team",
+      "start": "2017-12-03T00:00:00.000Z",
+      "end": "2017-12-03T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "Los Alcázares",
+      "start": "2026-03-25T00:00:00.000Z",
+      "end": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "-Golf Kilkenny",
+      "start": "2026-02-28T00:00:00.000Z",
+      "end": "2026-02-28T00:00:00.000Z"
     },
     {
       "type": "trip",
@@ -45,9 +75,9 @@
     },
     {
       "type": "event",
-      "title": "New",
-      "start": "2021-05-12T00:00:00.000Z",
-      "end": "2021-05-12T00:00:00.000Z"
+      "title": "Da's B'day",
+      "start": "2026-07-10T00:00:00.000Z",
+      "end": "2026-07-10T00:00:00.000Z"
     },
     {
       "type": "event",
@@ -57,15 +87,57 @@
     },
     {
       "type": "event",
-      "title": "Marc's B'day",
-      "start": "2026-09-23T00:00:00.000Z",
-      "end": "2026-09-23T00:00:00.000Z"
+      "title": "Dentist 10am",
+      "start": "2026-03-05T00:00:00.000Z",
+      "end": "2026-03-05T00:00:00.000Z"
     },
     {
       "type": "trip",
-      "title": "Krakow",
-      "start": "2026-03-21T00:00:00.000Z",
-      "end": "2026-03-23T00:00:00.000Z"
+      "title": "Westport",
+      "start": "2026-09-10T00:00:00.000Z",
+      "end": "2026-09-12T00:00:00.000Z"
+    },
+    {
+      "type": "trip",
+      "title": "Malaga",
+      "start": "2026-05-12T00:00:00.000Z",
+      "end": "2026-05-18T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "New",
+      "start": "2021-05-12T00:00:00.000Z",
+      "end": "2021-05-12T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Ma's Bday",
+      "start": "2026-10-18T00:00:00.000Z",
+      "end": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Rose B'day",
+      "start": "2026-05-06T00:00:00.000Z",
+      "end": "2026-05-06T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "nct",
+      "start": "2026-03-05T00:00:00.000Z",
+      "end": "2026-03-05T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "John's B'day",
+      "start": "2026-07-13T00:00:00.000Z",
+      "end": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Morgan B'day",
+      "start": "2026-03-06T00:00:00.000Z",
+      "end": "2026-03-06T00:00:00.000Z"
     },
     {
       "type": "event",
@@ -81,73 +153,13 @@
     },
     {
       "type": "event",
-      "title": "John's B'day",
-      "start": "2026-07-13T00:00:00.000Z",
-      "end": "2026-07-13T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Ma's Bday",
-      "start": "2026-10-18T00:00:00.000Z",
-      "end": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "kids stay over",
-      "start": "2026-03-14T00:00:00.000Z",
-      "end": "2026-03-14T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Rose B'day",
-      "start": "2026-05-06T00:00:00.000Z",
-      "end": "2026-05-06T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Da's B'day",
-      "start": "2026-07-10T00:00:00.000Z",
-      "end": "2026-07-10T00:00:00.000Z"
-    },
-    {
-      "type": "trip",
-      "title": "Malaga",
-      "start": "2026-05-12T00:00:00.000Z",
-      "end": "2026-05-18T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Club Team",
-      "start": "2017-12-03T00:00:00.000Z",
-      "end": "2017-12-03T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Morgan B'day",
-      "start": "2026-03-06T00:00:00.000Z",
-      "end": "2026-03-06T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Dentist 10am",
-      "start": "2026-03-05T00:00:00.000Z",
-      "end": "2026-03-05T00:00:00.000Z"
-    },
-    {
-      "type": "event",
       "title": "Da's Anniversary",
       "start": "2026-12-12T00:00:00.000Z",
       "end": "2026-12-12T00:00:00.000Z"
     },
     {
       "type": "event",
-      "title": "nct",
-      "start": "2026-03-05T00:00:00.000Z",
-      "end": "2026-03-05T00:00:00.000Z"
-    },
-    {
-      "type": "event",
-      "title": "Marc football",
+      "title": "kids stay over",
       "start": "2026-03-14T00:00:00.000Z",
       "end": "2026-03-14T00:00:00.000Z"
     }
